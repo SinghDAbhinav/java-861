@@ -1,7 +1,12 @@
 package com.lti.model;
 
 public class Employee {
+
+  int eId;
+  	private int employeeId;
+
 	private int employeeId;
+
 	private String employeeName;
 	
 	public Employee() {
